@@ -2,5 +2,9 @@
   {
     "package": "bysykkel",
     "oncran": true
+  },
+  {
+    "package": "frostr",
+    "oncran": true
   }
 ]

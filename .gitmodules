@@ -8,3 +8,8 @@
 	url = https://github.com/imangr/bysykkel
 	shallow = true
 	registered = true
+[submodule "frostr"]
+	path = frostr
+	url = https://github.com/imangr/frostr
+	shallow = true
+	registered = true
